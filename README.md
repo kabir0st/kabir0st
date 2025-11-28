@@ -6,7 +6,7 @@ With over **half a decade** of experience, I specialize in designing, coding, an
 ### 🚀 Learning to build AI embedded solutions.
 [Check Out My site.](https://kabir0st.info/)
 
-Read some problems I've solved: [Engineering Blogs](https://kabir0st.info/blogs)) 
+Read some problems I've solved: [Engineering Blogs](https://kabir0st.info/blogs)
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kabir0st&theme=dark&hide_border=false)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kabir0st&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
