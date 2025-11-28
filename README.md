@@ -1,7 +1,7 @@
 # Hi, I'm Kabir.
 #### Solution Architect, Dev.
 
-With over **half a decade** of experience, I specialize in designing, coding, and maintaining solution-centric systems that empower small businesses to grow and scale.
+With over **half a decade** of experience, I specialize in designing, developing and maintaining solution-centric AI embedded systems that empower and automates businesses to grow and scale.
 
 ### 🚀 Learning to build AI embedded solutions.
 [Check Out My site.](https://kabir0st.info/)
