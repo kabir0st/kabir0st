@@ -4,15 +4,6 @@
 With over **half a decade** of experience, I specialize in designing, developing and maintaining solution-centric AI embedded systems that empower and automates businesses to grow and scale.
 
 ### 🚀 Learning to build AI embedded solutions.
-[Check Out My site.](https://kabir0st.info/)
+[Check Out My site.](https://kabir0st.info/) or read some problems I've solved in my [Engineering Blogs](https://kabir0st.info/blogs).
 
-Read some problems I've solved: [Engineering Blogs](https://kabir0st.info/blogs)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=kabir0st&theme=dark&hide_border=false)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kabir0st&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 
-
-<div align="center">
-  <img src="https://github.com/lurayy/lurayy/blob/main/cover.gif" width="100%" alt="cover">
-</div>
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uiovcnd43bfuymwv5leqpd5544&cover_image=true&theme=novatorem" />
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kabir0st&theme=react-dark)
