@@ -15,3 +15,4 @@ Read some problems I've solved: [Engineering Blogs](https://kabir0st.info/blogs)
 <div align="center">
   <img src="https://github.com/lurayy/lurayy/blob/main/cover.gif" width="100%" alt="cover">
 </div>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uiovcnd43bfuymwv5leqpd5544&cover_image=true&theme=novatorem" />
