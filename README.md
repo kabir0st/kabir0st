@@ -1,5 +1,5 @@
 # Hi, I'm Kabir.
-I do random stuffs mostly in AI, robotics and system design (web apps).
+I do random stuffs mostly in AI, embedded automations and system design (web apps).
 
 [Check Out My site.](https://kabirtamari.com/) or read some problems I've solved in my [Engineering Blogs](https://kabirtamari.com/blogs).
 
