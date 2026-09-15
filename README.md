@@ -1,6 +1,6 @@
 # Hi, I'm Kabir.
-I do random stuffs mostly in AI, embedded automations and system design.
+I do random stuffs mostly in AI, embedded sys and system design.
 
-I am trying do/learn edge AI and getting in JEPA and world models right now.
+my current focus in on learning robotics and edge AI through my master's in Embedded and Intelligent Systems (Halmstad University, 2nd Year).
 
 Check Out My [site](https://kabirtamari.com/) or read some messy thoughts of my distracted mind [here](https://kabirtamari.com/blogs).
